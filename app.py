@@ -2,7 +2,6 @@ import streamlit as st
 import joblib
 import pandas as pd
 
-# Load your trained model
 model = joblib.load('lung_cancer_risk_model.joblib')
 
 # Feature list
