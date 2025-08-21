@@ -49,4 +49,4 @@ Target label: **Lung Cancer Risk (Yes/No)**
 ---
 
 ## Author
-Developed by **Sadia Tabassum (SadiaPikachu)** ok? 
+Developed by **Sadia Tabassum (SadiaPikachu)**
